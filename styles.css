@@ -1,0 +1,54 @@
+.info{
+width: 300px;
+height: 100px;
+border: solid 2px;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.body {
+width: 300px;
+  border: solid 2px;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title {
+width: 300px;
+border: solid 2px;
+display: flex;
+margin-top: 4px;
+margin-bottom: 4px;
+justify-content: center;
+}
+.input {
+  height: 50px;
+}
+.bodyinput {
+  height: 50px
+}
+.box {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+body{
+  display: flex;
+  justify-content: center;
+  font-family: "Noto Sans", sans-serif;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+button {
+margin-top: 4px;
+  width: 150px;
+  height: 35px;
+  background-color: lightblue;
+}
+.submit{
+  display: flex;
+  justify-content: center;
+}
